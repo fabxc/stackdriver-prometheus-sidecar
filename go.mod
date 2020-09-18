@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/storage v1.4.0 // indirect
 	contrib.go.opencensus.io/exporter/ocagent v0.6.0 // indirect
 	contrib.go.opencensus.io/exporter/prometheus v0.1.0
-	contrib.go.opencensus.io/exporter/stackdriver v0.12.8
+	contrib.go.opencensus.io/exporter/stackdriver v0.13.4
 	dmitri.shuralyov.com/gpu/mtl v0.0.0-20191126053124-fec1b7b612ab // indirect
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
 	github.com/Azure/azure-sdk-for-go v36.2.0+incompatible // indirect
